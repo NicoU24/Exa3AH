@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901234618639",
+    "project_id": "exau3-3e8bb",
+    "storage_bucket": "exau3-3e8bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901234618639:android:84310d08275d9cf78d8e7a",
+        "android_client_info": {
+          "package_name": "com.example.examenu3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901234618639-a3ino3r06q7r9o0hbqa8dd6hq6otq834.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-uLRPR7eb10YkkvcVegQ7COGQNdYAp9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901234618639-a3ino3r06q7r9o0hbqa8dd6hq6otq834.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
