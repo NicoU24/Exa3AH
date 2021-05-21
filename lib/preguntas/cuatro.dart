@@ -1,6 +1,7 @@
+import 'package:examenu3/preguntas/cinco.dart';
 import 'package:flutter/material.dart';
 
-import 'cinco.dart';
+
 
 class CUATRO extends StatefulWidget {
    final int contador;

@@ -1,4 +1,4 @@
-import 'package:examenu3/main.dart';
+
 import 'package:examenu3/preguntas/dos.dart';
 import 'package:flutter/material.dart';
 
